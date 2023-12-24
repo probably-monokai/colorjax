@@ -1,0 +1,19 @@
+{
+	"name": "colorjax",
+	"version": "1.0.0",
+	"scripts": {
+		"pack": "node node_modules/mathjax-full/components/bin/pack"
+	},
+	"keywords": [],
+	"license": "MIT",
+	"dependencies": {
+		"mathjax-full": "^3.2.2"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.21.3",
+		"@babel/preset-env": "^7.20.2",
+		"babel-loader": "^9.1.2",
+		"webpack": "^5.76.3",
+		"webpack-cli": "^5.0.1"
+	}
+}
